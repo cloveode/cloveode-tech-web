@@ -18,7 +18,7 @@ export default function WebsiteDevelopment() {
         <h1 className="text-5xl md:text-8xl text-gray-600 md:leading-[140px]  font-bold font-poppins">
           Website Development
         </h1>
-        <p className="text-gray-600 font-platypi font-medium text-2xl py-5">
+        <p className="text-gray-600 font-poppins font-medium text-2xl py-5">
           Website Development Services | Cloveode Technologies
         </p>
         <div className="divider"></div>
@@ -26,7 +26,7 @@ export default function WebsiteDevelopment() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Elevate Your Online Presence with Exceptional Website Development{" "}
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             At Cloveode Technologies, we specialize in creating dynamic,
             responsive, and visually stunning websites that capture your brand’s
             essence and drive user engagement. Our comprehensive website
@@ -39,7 +39,7 @@ export default function WebsiteDevelopment() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Why Invest in Professional Website Development?
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             A professionally developed website not only enhances your online
             presence but also builds credibility and trust with your audience.
             It serves as a powerful marketing tool that can drive traffic,
@@ -55,7 +55,7 @@ export default function WebsiteDevelopment() {
           </h3>
           <ol className="list-decimal">
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Custom Web Design:</span> Our custom
                 web design services ensure that your website is uniquely
                 tailored to reflect your brand identity. We focus on creating
@@ -64,7 +64,7 @@ export default function WebsiteDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Responsive Web Development:</span>{" "}
                 We build responsive websites that work flawlessly on all
                 devices, including desktops, tablets, and mobile phones. This
@@ -73,7 +73,7 @@ export default function WebsiteDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">E-Commerce Solutions:</span> Our
                 e-commerce solutions are designed to help you sell your products
                 and services online effectively. From secure payment gateways to
@@ -82,7 +82,7 @@ export default function WebsiteDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">CMS Development:</span> We develop
                 content management systems (CMS) that make it easy for you to
                 update and manage your website content. Our CMS solutions are
@@ -91,7 +91,7 @@ export default function WebsiteDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">
                   Website Maintenance and Support:
                 </span>{" "}
@@ -110,28 +110,28 @@ export default function WebsiteDevelopment() {
           </h3>
           <ul className="list-disc	">
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Expert Team:</span> Our skilled
                 professionals bring extensive experience and specialized
                 knowledge to every project.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Innovative Solutions:</span> We stay
                 ahead of industry trends to deliver the latest and most
                 effective technologies.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Client-Centric Focus:</span> Your
                 success is our priority. We work closely with you to ensure our
                 solutions meet your specific needs.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Security:</span> We prioritize the
                 security and integrity of your blockchain applications,
                 employing best practices to protect your data.
@@ -144,7 +144,7 @@ export default function WebsiteDevelopment() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Our Commitment
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             We are committed to delivering high-quality solutions that drive
             real results. Whether you&apos;re looking to build a new website,
             develop a blockchain application, or create custom software,

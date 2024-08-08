@@ -7,7 +7,7 @@ export const Contact = () => {
         <h1 className="text-5xl md:text-6xl text-gray-600 font-bold font-poppins md:mt-8">
           Get in Touch with Us
         </h1>
-        <p className="text-xl md:text-2xl mt-4 font-platypi text-body-color mb-8 dark:text-dark-6">
+        <p className="text-xl md:text-2xl mt-4 font-poppins text-body-color mb-8 dark:text-dark-6">
           Ready to discuss your project or explore how our services can benefit
           your business?
         </p>

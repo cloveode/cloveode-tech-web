@@ -18,11 +18,11 @@ export default function About() {
         <h1 className="text-5xl md:text-8xl text-gray-600 md:leading-[140px]  font-bold font-poppins">
           About Us
         </h1>
-        <p className="text-gray-600 font-platypi font-medium text-2xl py-5">
+        <p className="text-gray-600 font-poppins font-medium text-2xl py-5">
           Cloveode Technologies: Pioneering Innovation in Web and Blockchain
           Solutions
         </p>
-        <p className="text-dark font-platypi font-medium text-md">
+        <p className="text-dark font-poppins font-medium text-md">
           At Cloveode Technologies, we are dedicated to driving digital
           transformation through cutting-edge web and blockchain solutions.
           Founded on a passion for technology and innovation, our mission is to
@@ -34,7 +34,7 @@ export default function About() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Who We Are
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             We are a team of seasoned professionals with deep expertise in web
             development, blockchain technology, and custom software solutions.
             Our diverse backgrounds and skills come together to deliver
@@ -50,7 +50,7 @@ export default function About() {
           </h3>
           <ul className="list-disc	">
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Web Development:</span> We create
                 dynamic, responsive, and visually stunning websites that capture
                 your brand’s essence and drive user engagement. Our services
@@ -59,7 +59,7 @@ export default function About() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Blockchain Development:</span>{" "}
                 Leveraging the power of blockchain technology, we offer bespoke
                 solutions including smart contracts, decentralized applications
@@ -68,7 +68,7 @@ export default function About() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Custom Software Development:</span>{" "}
                 We develop tailored software solutions to meet your unique
                 business needs. From enterprise applications to system
@@ -83,7 +83,7 @@ export default function About() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Our Approach
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             At Cloveode Technologies, we believe in a collaborative approach to
             achieve the best outcomes for our clients. We start by understanding
             your goals and challenges, then craft tailored solutions that align
@@ -99,28 +99,28 @@ export default function About() {
           </h3>
           <ul className="list-disc	">
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Expert Team:</span> Our skilled
                 professionals bring extensive experience and specialized
                 knowledge to every project.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Innovative Solutions:</span> We stay
                 ahead of industry trends to deliver the latest and most
                 effective technologies.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Client-Centric Focus:</span> Your
                 success is our priority. We work closely with you to ensure our
                 solutions meet your specific needs.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Global Reach:</span> With clients
                 around the world, we have the experience and capability to
                 handle projects of any scale.
@@ -133,7 +133,7 @@ export default function About() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Our Commitment
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             We are committed to delivering high-quality solutions that drive
             real results. Whether you&apos;re looking to build a new website,
             develop a blockchain application, or create custom software,

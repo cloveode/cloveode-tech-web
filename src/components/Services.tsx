@@ -16,7 +16,7 @@ export const Services = () => {
             <h3 className="mb-3 font-poppins text-xl font-bold text-white">
               Blockchain Development
             </h3>
-            <p className="mb-8 font-platypi text-white">
+            <p className="mb-8 font-poppins text-white">
               Unlock the potential of blockchain technology with Cloveode
               Technologies through our custom development, smart contracts,
               DApps, tokenization, and integration services.
@@ -40,7 +40,7 @@ export const Services = () => {
             <h3 className="mb-3 text-xl font-poppins font-bold text-white">
               Website Development
             </h3>
-            <p className="mb-8 font-platypi text-white">
+            <p className="mb-8 font-poppins text-white">
               Transform your online presence with Cloveode Technologies. Our
               website development services include custom web design, responsive
               layouts, and e-commerce solutions.
@@ -64,7 +64,7 @@ export const Services = () => {
             <h3 className="mb-3 text-xl font-poppins font-bold text-white">
               Custom Software Development
             </h3>
-            <p className="mb-8 font-platypi text-white">
+            <p className="mb-8 font-poppins text-white">
               Enhance your business operations with Cloveode Technologies. Our
               custom software development services include tailored software
               solutions, enterprise application development, and AI Development.

@@ -18,7 +18,7 @@ export default function CustomSoftwareDevelopment() {
         <h1 className="text-5xl md:text-8xl text-gray-600 md:leading-[140px]  font-bold font-poppins">
           Custom Software Development{" "}
         </h1>
-        <p className="text-gray-600 font-platypi font-medium text-2xl py-5">
+        <p className="text-gray-600 font-poppins font-medium text-2xl py-5">
           Custom Software Development Services | Cloveode Technologies
         </p>
         <div className="divider"></div>
@@ -26,7 +26,7 @@ export default function CustomSoftwareDevelopment() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Empower Your Business with Tailored Software Solutions
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             At Cloveode Technologies, we specialize in developing custom
             software solutions that address your unique business challenges and
             opportunities. Our comprehensive software development services are
@@ -39,7 +39,7 @@ export default function CustomSoftwareDevelopment() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Why Custom Software Development?
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             Custom software solutions are tailored to meet the specific needs of
             your business, providing greater flexibility, scalability, and
             functionality compared to off-the-shelf software. With Cloveode
@@ -55,7 +55,7 @@ export default function CustomSoftwareDevelopment() {
           </h3>
           <ol className="list-decimal">
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Tailored Software Solutions:</span>{" "}
                 We develop bespoke software solutions designed to address your
                 unique business requirements. From concept to deployment, our
@@ -64,7 +64,7 @@ export default function CustomSoftwareDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">
                   Enterprise Application Development:
                 </span>{" "}
@@ -76,7 +76,7 @@ export default function CustomSoftwareDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">System Integration:</span> We
                 provide system integration services to ensure that your new
                 software works seamlessly with your existing systems. Our
@@ -85,7 +85,7 @@ export default function CustomSoftwareDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Software Consulting:</span> Our
                 software consulting services offer expert guidance on the best
                 technologies and strategies to achieve your business goals. We
@@ -94,7 +94,7 @@ export default function CustomSoftwareDevelopment() {
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">
                   Application Maintenance and Support:
                 </span>{" "}
@@ -113,28 +113,28 @@ export default function CustomSoftwareDevelopment() {
           </h3>
           <ul className="list-disc	">
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Expert Team:</span> Our skilled
                 professionals bring extensive experience and specialized
                 knowledge to every project.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Innovative Solutions:</span> We stay
                 ahead of industry trends to deliver the latest and most
                 effective technologies.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Client-Centric Focus:</span> Your
                 success is our priority. We work closely with you to ensure our
                 solutions meet your specific needs.
               </p>
             </li>
             <li className="py-3">
-              <p className="text-dark font-platypi">
+              <p className="text-dark font-poppins">
                 <span className="font-bold">Security:</span> We prioritize the
                 security and integrity of your blockchain applications,
                 employing best practices to protect your data.
@@ -147,7 +147,7 @@ export default function CustomSoftwareDevelopment() {
           <h3 className="text-4xl font-semibold font-poppins my-3">
             Our Commitment
           </h3>
-          <p className="text-dark font-platypi">
+          <p className="text-dark font-poppins">
             We are committed to delivering high-quality solutions that drive
             real results. Whether you&apos;re looking to build a new website,
             develop a blockchain application, or create custom software,

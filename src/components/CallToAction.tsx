@@ -14,7 +14,7 @@ export const CallToAction = () => {
             className="text-4xl md:text-6xl font-poppins font-bold"
             text="Book a Free Consultation Call from Anywhere in the World"
           />
-          <p className="text-dark my-4 font-platypi">
+          <p className="text-dark my-4 font-poppins">
             No matter where you are, Cloveode Technologies is here to help you
             transform your ideas into reality. Schedule a free consultation call
             with our experts today and discover how our global expertise can
