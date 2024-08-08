@@ -2,9 +2,9 @@ import Link from "next/link";
 
 export const Footer = () => {
   return (
-    <footer className="footer footer-center bg-white text-black p-10">
+    <footer className="footer footer-center bg-black text-white p-10">
       <aside>
-        <img width={100} className="" src="/logo.png" />
+        <img width={100} className="" src="/logo-color.png" />
         <p className="font-bold font-poppins">
           CloveOde Technologies Pvt. Ltd.
           <br />
@@ -16,7 +16,7 @@ export const Footer = () => {
       </aside>
       <nav>
         <div className="grid grid-flow-col gap-4">
-          <Link href="#">
+          <Link href="https://www.instagram.com/cloveode.tech/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -34,7 +34,7 @@ export const Footer = () => {
               <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
             </svg>
           </Link>
-          <Link href="#">
+          <Link href="https://linkedin.com/company/cloveode-technologies/">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"

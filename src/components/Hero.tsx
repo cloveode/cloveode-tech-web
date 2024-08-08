@@ -5,22 +5,22 @@ import Link from "next/link";
 export const Hero = () => {
   return (
     <>
-      <div className="container mx-auto mt-[8rem]">
-        <div className="grid grid-cols-2 gap-10">
+      <div className="container mx-auto mt-[4rem] md:mt-[8rem] md:px-0 px-8">
+        <div className="grid md:grid-cols-2 grid-cols-1 gap-10">
           <div className="text-left">
             <div className="flex">
-              <h1 className="font-poppins text-[140px] text-gray-600 font-bold leading-[140px]">
+              <h1 className="font-poppins text-6xl md:text-[140px] text-gray-600 font-bold md:leading-[140px]">
                 Elevate
               </h1>
             </div>
             <div className="flex">
-              <h1 className="text-[140px] text-dark font-poppins font-bold leading-[140px]">
+              <h1 className="md:text-[140px] text-6xl text-dark font-poppins font-bold md:leading-[140px]">
                 Develop
               </h1>
             </div>
             <div className="flex">
               <WordRotate
-                className="text-[140px] font-bold font-poppins leading-[140px] text-[#ff345f]"
+                className="md:text-[140px] text-6xl font-bold font-poppins md:leading-[140px] text-[#ff345f]"
                 words={["Grow", "Thrive", "Build"]}
               />
             </div>
@@ -44,7 +44,7 @@ export const Hero = () => {
               growth for your business.
             </p>
 
-            <div className="flex flex-row gap-4">
+            <div className="flex flex-col md:flex-row gap-4">
               <Link
                 href={"https://tally.so/r/wv4Y9d"}
                 className="btn btn-wide border-none font-poppins text-white hover:bg-black bg-black hover:underline"

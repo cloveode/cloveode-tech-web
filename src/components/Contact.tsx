@@ -2,15 +2,12 @@ import Link from "next/link";
 
 export const Contact = () => {
   return (
-    <section className="w-full p-8 bg-gray-200 mt-[100px]">
-      <div
-        className="text-center wow fadeInUp group mt-15 mb-20 "
-        data-wow-delay=".15s"
-      >
-        <h1 className="text-[60px] font-poppins my-4 font-bold text-dark dark:text-white">
+    <div className="w-full py-8 px-4 bg-gray-200 mt-[100px]">
+      <div className="text-center container mx-auto mt-15 mb-20 ">
+        <h1 className="text-5xl md:text-6xl text-gray-600 font-bold font-poppins md:mt-8">
           Get in Touch with Us
         </h1>
-        <p className="text-2xl font-platypi text-body-color mb-8 dark:text-dark-6 mx-20">
+        <p className="text-xl md:text-2xl mt-4 font-platypi text-body-color mb-8 dark:text-dark-6">
           Ready to discuss your project or explore how our services can benefit
           your business?
         </p>
@@ -21,6 +18,6 @@ export const Contact = () => {
           Contact Us
         </Link>
       </div>
-    </section>
+    </div>
   );
 };
